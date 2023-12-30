@@ -1,0 +1,7 @@
+mariadb:
+  url:''
+  password: '{cipher}'
+
+userservice:
+  registration:
+    disabled: true
