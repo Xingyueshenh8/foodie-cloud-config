@@ -1,12 +1,12 @@
 management:
   endpoint:
     health:
-      show-details: always
+      show-details:always
 
   endpoints:
     web:
       exposure:
-        include: '*'
+        include:'*'
 
   security:
-    enabled: false
+    enabled:false
